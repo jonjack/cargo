@@ -57,13 +57,4 @@ If you want to use the JDK instead ie. for local development purposes, then use 
 docker pull jonjack/jalpine:jdk
 ```
 
----
-
-### Yet Another Java Image?
-
-There are several images already for running Java on top of Alpine Linux, but I wanted to create my own to meet my specific criteria:-
-
-- Reduce the image footprint as much as possible by only installing the JRE and removing every component that was not critically required
-
-
 
