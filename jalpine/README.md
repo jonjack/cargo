@@ -51,6 +51,12 @@ docker run -d -v /host/app/path:/app/path
                              jonjack/jalpine java -cp /app/path Main
 ```
 
+If you want to use the JDK instead ie. for local development purposes, then use the `jdk` tag
+
+```bash
+docker pull jonjack/jalpine:jdk
+```
+
 ---
 
 ### Yet Another Java Image?
