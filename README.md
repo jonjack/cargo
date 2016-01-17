@@ -14,12 +14,23 @@ Nginx HTTP server.
 docker pull jonjack/alpinginx
 ```
 
+### Alpinjet
+
+Java + Jetty on Alpine. This provides the out of the box Jetty implementation.
+
+
 ### Alpinode
 
 Node + NPM.
+
 
 ### Jalpine
 
 Java running on Alpine.
 
 This image provides tags for both the 64 bit Server JRE and the JDK versions depending on your needs.
+
+
+### Redpine
+
+Redis memory key:value store on Alpine.
