@@ -1,4 +1,4 @@
-FROM alpine
+FROM jonjack/jalpine
 
 ENV JETTY_VERSION 9.3.5.v20151012
 ENV JETTY_HOME=/opt/jetty-distribution-${JETTY_VERSION}
