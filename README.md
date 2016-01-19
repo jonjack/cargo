@@ -6,6 +6,8 @@ My collection of Docker images.
 
 Most of these images are based on top of Alpine Linux since I like the pratice of making images as small and lightweight as possible. These images are generally built for my own needs but they are available in the [public repository](https://hub.docker.com/u/jonjack/) in case anyone else finds them useful. 
 
+---
+
 ### Alpinginx
 
 Nginx HTTP server.
@@ -23,9 +25,11 @@ Java + Jetty on Alpine. This provides the out of the box Jetty implementation.
 
 Node + NPM.
 
+
 ### Alpivator
 
 Intended for local development using Typesafe's [Activator](http://www.typesafe.com/activator/download) platform.
+
 
 ### Jalpine
 
