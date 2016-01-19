@@ -23,6 +23,9 @@ Java + Jetty on Alpine. This provides the out of the box Jetty implementation.
 
 Node + NPM.
 
+### Alpivator
+
+Intended for local development using Typesafe's [Activator](http://www.typesafe.com/activator/download) platform.
 
 ### Jalpine
 
