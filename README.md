@@ -41,3 +41,8 @@ This image provides tags for both the 64 bit Server JRE and the JDK versions dep
 ### Redpine
 
 Redis memory key:value store on Alpine.
+
+
+### Scalpine
+
+Scala running on Alpine. This image is intended for development environments since you would normally deploy the Scala libraries as application dependencies.
