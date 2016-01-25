@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV NGINX_VERSION=1.9.7 NGINX_HOME=/app/nginx
+ENV NGINX_VERSION=1.9.9 NGINX_HOME=/app/nginx
 
 RUN echo 'http://dl-4.alpinelinux.org/alpine/v3.3/main' >> /etc/apk/repositories && \
     apk upgrade --update && \
@@ -35,7 +35,6 @@ RUN echo 'http://dl-4.alpinelinux.org/alpine/v3.3/main' >> /etc/apk/repositories
     make install && \
     mkdir -p /etc/nginx/conf.d && \
     apk del curl gnupg build-base && \
-    apk add git && \
     rm /nginx-${NGINX_VERSION}.tar.gz /nginx-${NGINX_VERSION}.tar.gz.asc && \
     rm -rf \
     /usr/share/man \
