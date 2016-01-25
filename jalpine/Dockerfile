@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV JAVA_VERSION=8 JAVA_UPDATE=66 JAVA_BUILD=17 
+ENV JAVA_VERSION=8 JAVA_UPDATE=72 JAVA_BUILD=15
 
 RUN echo 'http://dl-4.alpinelinux.org/alpine/v3.3/main' >> /etc/apk/repositories && \
     apk upgrade --update && \
