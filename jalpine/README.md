@@ -13,10 +13,10 @@ For anyone who wishes to use this image for their own container projects note th
 
 ### Specs 
 
-Docker Tag    |  Size (compressed)  |  Versions                           |  Description
---------------|---------------------|-------------------------------------|-------------------------
-`latest`      | 124 mb (48 mb)      | Java `1.8.0_66` <br>Alpine `3.2.3`  | 64 bit Server JRE
-`jdk`         | 165 mb (62 mb)      | Java `1.8.0_66` <br>Alpine `3.2.3`  | 64 bit JDK
+Docker Tag    |  Size (compressed)  |  Versions                               |  Description
+--------------|---------------------|-----------------------------------------|-------------------------
+`latest`      | 124 mb (48 mb)      | Java `1.8.0_72_b15` <br>Alpine `3.2.3`  | 64 bit Server JRE
+`jdk`         | 165 mb (62 mb)      | Java `1.8.0_72_b15` <br>Alpine `3.2.3`  | 64 bit JDK
 
 ---
 
