@@ -53,6 +53,9 @@ docker pull jonjack/alpinginx:jdk
 
 Redis memory key:value store on Alpine.
 
+```bash
+docker pull jonjack/redpine
+```
 
 ### Scalpine
 
