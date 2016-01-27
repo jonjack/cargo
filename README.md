@@ -37,6 +37,17 @@ Java running on Alpine.
 
 This image provides tags for both the 64 bit Server JRE and the JDK versions depending on your needs.
 
+For 64 bit Server JRE, do a:
+
+```bash
+docker pull jonjack/alpinginx
+```
+
+For JDK, do a:
+
+```bash
+docker pull jonjack/alpinginx:jdk
+```
 
 ### Redpine
 
