@@ -9,7 +9,7 @@
 
 Docker Tag    |  Size (compressed)  |  Versions                           |  Description
 --------------|---------------------|-------------------------------------|-------------------------
-`latest`      | 12 mb (5 mb)        | Redis `3.0.5` <br>Alpine `3.3.1`    | Redis Server + Tools
+`latest`      | 12 mb (5 mb)        | Redis `3.0.5` <br>Alpine `3.3.3`    | Redis Server + Tools
 
 ---
 
