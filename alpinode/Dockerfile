@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV NODE_VERSION=5.0.0 NPM_VERSION=3.3.10
+ENV NODE_VERSION=5.5.0 NPM_VERSION=3.6.0
 
 RUN apk upgrade --update && \
   apk add curl gnupg make gcc g++ python linux-headers paxctl libgcc libstdc++ && \
