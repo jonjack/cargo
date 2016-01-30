@@ -1,6 +1,4 @@
-## Docker image for running Typesafe's Activator.
-
-Minimal container for running a Typesafe [Play](https://www.playframework.com/) application.
+## Minimal container for running a Typesafe [Play](https://www.playframework.com/) application.
 
 Base image: [jalpine](https://hub.docker.com/r/jonjack/jalpine/).    
 See Typesafe's [Play](https://www.playframework.com/) website if you are not familiar with the framework.
