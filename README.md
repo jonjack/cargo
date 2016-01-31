@@ -60,3 +60,23 @@ docker pull jonjack/redpine
 ### Scalpine
 
 Scala running on Alpine. This image is intended for development environments since you would normally deploy the Scala libraries as application dependencies.
+
+
+### Yalp
+
+Java Server JRE (jalpine) configured to start a Typesafe Play application.
+
+This image is not currently in the public repository so if you wish to use it you will need to clone the repo and build the image.
+
+Assuming you are in a Docker CLI (and have Git installed):
+
+```bash
+git clone https://github.com/jonjack/cargo.git
+
+cd yalp
+
+docker build -t yalp .
+```
+
+
+
