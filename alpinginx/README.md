@@ -11,7 +11,7 @@ For anyone who wishes to use this image for their own container projects - note 
 
 Docker Tag     |    Versions                       |   Description             |  Size (compressed)
 ---------------|-----------------------------------|---------------------------|--------------------------
-`latest`       |  Nginx `1.9.7`<br>Alpine `3.2.3`  | Plain install of Nginx    | 26 mb (10 mb)      
+`latest`       |  Nginx `1.9.7`<br>Alpine `3.3.1`  | Plain install of Nginx    | 26 mb (10 mb)      
 
 ---
 
