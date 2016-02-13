@@ -23,7 +23,6 @@ RUN echo 'http://dl-4.alpinelinux.org/alpine/v3.3/main' >> /etc/apk/repositories
        /opt/jdk/db \
        /opt/jdk/man \
        /opt/jdk/lib/missioncontrol \
-       /opt/jdk/lib/visualvm \
        /opt/jdk/jre/plugin \  
        /opt/jdk/jre/lib/jfr \
        /opt/jdk/jre/lib/*jfx* \
