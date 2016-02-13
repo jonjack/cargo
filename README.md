@@ -12,9 +12,6 @@ Most of these images are based on top of Alpine Linux to follow the pratice of m
 
 Nginx HTTP server.
 
-```bash
-docker pull jonjack/alpinginx
-```
 
 ### Alpinjet
 
@@ -37,25 +34,12 @@ Java running on Alpine.
 
 This image provides tags for both the 64 bit Server JRE and the JDK versions depending on your needs.
 
-For 64 bit Server JRE, do a:
-
-```bash
-docker pull jonjack/alpinginx
-```
-
-For JDK, do a:
-
-```bash
-docker pull jonjack/alpinginx:jdk
-```
 
 ### Redpine
 
 Redis memory key:value store on Alpine.
 
-```bash
-docker pull jonjack/redpine
-```
+
 
 ### Scalpine
 
