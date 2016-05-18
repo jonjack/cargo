@@ -9,6 +9,8 @@ The default image (`latest`) provides is intended for production and testing env
 
 For anyone who wishes to use this image for their own container projects note that I shall endeavor to keep it tracking the latest release of [Java](https://www.oracle.com/java/index.html) and [Alpine](http://www.alpinelinux.org/).
 
+View on [DockerHub](https://hub.docker.com/r/jonjack/jalpine/)
+
 ---
 
 ### Specs 
@@ -16,7 +18,7 @@ For anyone who wishes to use this image for their own container projects note th
 Docker Tag    |  Size (compressed)  |  Versions                               |  Description
 --------------|---------------------|-----------------------------------------|-------------------------
 `latest`      | 124 mb (48 mb)      | Java `1.8.0_72_b15` <br>Alpine `3.3.1`  | 64 bit Server JRE
-`jdk`         | 165 mb (62 mb)      | Java `1.8.0_72_b15` <br>Alpine `3.3.1`  | 64 bit JDK
+`jdk`         | 200 mb (73 mb)      | Java `1.8.0_92_b14` <br>Alpine `3.3.3`  | 64 bit JDK
 
 ---
 
