@@ -1,6 +1,6 @@
 # cargo
 
-My collection of Docker images.
+Playing around with Docker image creation.
 
 ---
 
